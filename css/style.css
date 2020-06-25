@@ -481,3 +481,14 @@ nav li:nth-of-type(even) {
 .portfolio-item-individual img {
     margin: 0 auto;
 }
+#app {
+    display: none;
+}
+.appimage {
+    width: 20%;
+    height: 20%;
+    display: inline-block;
+}
+#image-container {
+    margin-left: 10%;
+}
